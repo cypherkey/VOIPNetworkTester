@@ -1,0 +1,8 @@
+﻿sip.port=
+sip.min=
+sip.max=
+sip.displayname=
+sip.username=
+sip.password=
+sip.host=
+externalip=

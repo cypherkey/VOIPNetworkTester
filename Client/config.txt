@@ -1,0 +1,12 @@
+﻿sip.port=
+sip.min=
+sip.max=
+sip.displayname=
+sip.username=
+sip.password=
+sip.host=
+externalip=
+call=
+ping.host=
+cust=
+tonefile=audiocheck.net_sin_3000Hz_-3dBFS_10s.wav
